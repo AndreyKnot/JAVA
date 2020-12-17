@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.8" class="java.beans.XMLDecoder">
+ <array class="ua.khpi.oop.tatarenko08.Book" length="2">
+  <void index="0">
+   <object class="ua.khpi.oop.tatarenko08.Book">
+    <void property="ISBN">
+     <long>9785811425396</long>
+    </void>
+    <void property="author">
+     <array class="java.lang.String" length="1">
+      <void index="0">
+       <string>Sposobin I.V.</string>
+      </void>
+     </array>
+    </void>
+    <void property="date">
+     <int>2018</int>
+    </void>
+    <void property="genre">
+     <array class="java.lang.String" length="1">
+      <void index="0">
+       <string>Education</string>
+      </void>
+     </array>
+    </void>
+    <void property="name">
+     <string>Elementari Music Theory</string>
+    </void>
+    <void property="publish">
+     <string>Planet of Music</string>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="ua.khpi.oop.tatarenko08.Book">
+    <void property="ISBN">
+     <long>5792100810</long>
+    </void>
+    <void property="author">
+     <array class="java.lang.String" length="1">
+      <void index="0">
+       <string>Sapkovskii A.</string>
+      </void>
+     </array>
+    </void>
+    <void property="date">
+     <int>1993</int>
+    </void>
+    <void property="genre">
+     <array class="java.lang.String" length="2">
+      <void index="0">
+       <string>Romance</string>
+      </void>
+      <void index="1">
+       <string>Epic Fantasy</string>
+      </void>
+     </array>
+    </void>
+    <void property="name">
+     <string>Witcher The Last Wish</string>
+    </void>
+    <void property="publish">
+     <string>superNOWA</string>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
